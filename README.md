@@ -5,7 +5,7 @@ If you need any additional help with Papa Bee, ask in our [Discord Server](https
 
 Useful Links:
 - [Add Papa Bee to your server](https://discord.com/api/oauth2/authorize?client_id=887341749398274088&permissions=8&scope=bot)
-- [Discord Server](https://discord.gg/beehives)
+- [Support Server](https://discord.gg/beehives)
 
 
 ## Prefix for Papa Bee is ``=``
